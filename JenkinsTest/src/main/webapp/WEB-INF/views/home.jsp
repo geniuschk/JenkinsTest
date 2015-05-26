@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>
-	Jenkins Test 
+	Jenkins Test  
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
